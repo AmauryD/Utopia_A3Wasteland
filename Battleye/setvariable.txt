@@ -1,0 +1,18 @@
+// A3Wasteland - setVariable.txt BattlEye filters by AgentRev
+
+5 "^A3W_((antiExplodeLocal|dammaged|engine|handleDamage|respawn)EH|atmEditorPlaced|missionMarkerName|(object|vehicle)(ID|Saved))"
+5 "^A3W_(purchasedStoreObject|storeSellBox)"
+5="bmoney" // set to 1 if causing problems with addons
+5="BIS_fnc_MP_queue"
+5="BuildingLoot"
+5="captureTriggerMarker"
+5="FAR_Player_Unconscious_thread"
+5 "^fpsFix_"
+5="Lootready"
+5 "^objSaving_"
+5="parked_vehicles"
+5="private_storage"
+5="spawnBeacon_lastUse"
+5 "^storeNPC_"
+5 "^Town_\d+_"
+5 "^vehSaving_"

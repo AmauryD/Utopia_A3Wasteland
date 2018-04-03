@@ -1,0 +1,1 @@
+diag_log format ["SimpleAC : %1",(param [0,"",["",[]]])];
